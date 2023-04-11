@@ -21,4 +21,4 @@ if (isset($_POST['submit']))
         header("location:action.php");
    }
 }
-?>
+>?
